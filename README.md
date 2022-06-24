@@ -4,7 +4,6 @@
 
 
 -  I’m interested in Mobile development 👀
--  I’m currently learning Kotlin in Tuwaiq Academy and I'm so excited about it.
 -  My linkedin: www.linkedin.com/in/renadali
 
 
